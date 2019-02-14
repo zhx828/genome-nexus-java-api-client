@@ -18,7 +18,7 @@ import org.genome_nexus.Pair;
 import java.util.Map;
 import java.util.List;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2019-02-14T15:41:58.329-05:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2019-02-14T15:53:18.951-05:00")
 public class OAuth implements Authentication {
   private String accessToken;
 

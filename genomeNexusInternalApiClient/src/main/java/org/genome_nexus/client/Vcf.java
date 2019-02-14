@@ -26,7 +26,7 @@ import java.io.IOException;
 /**
  * Vcf
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2019-02-14T15:41:59.481-05:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2019-02-14T15:53:20.092-05:00")
 public class Vcf {
   @SerializedName("alt")
   private String alt = null;
