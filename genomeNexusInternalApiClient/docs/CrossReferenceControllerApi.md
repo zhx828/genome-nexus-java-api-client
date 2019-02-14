@@ -1,6 +1,6 @@
 # CrossReferenceControllerApi
 
-All URIs are relative to *http://genomenexus.org*
+All URIs are relative to *http://genomenexus.org/beta*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

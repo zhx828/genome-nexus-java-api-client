@@ -28,7 +28,7 @@ import java.util.List;
 /**
  * GeneXref
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2018-05-16T15:36:31.946-04:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2019-02-14T15:41:58.329-05:00")
 public class GeneXref {
   @SerializedName("db_display_name")
   private String dbDisplayName = null;
